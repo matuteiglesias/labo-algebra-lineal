@@ -12,4 +12,4 @@ Bienvenidos al repositorio del curso de Álgebra Lineal Computacional. Aquí enc
 
 1. Clona este repositorio en tu máquina local.
    ```bash
-   git clone https://github.com/usuario/repositorio-algebra-lineal.git
+   git clone https://github.com/matuteiglesias/labo-algebra-lineal.git
