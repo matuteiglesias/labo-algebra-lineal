@@ -17,91 +17,163 @@ Bienvenidos al repositorio del curso de Álgebra Lineal Computacional. Aquí enc
 
 # Curso de Álgebra Lineal Computacional
 
-Este curso está dividido en capítulos que cubren desde los conceptos básicos de espacios vectoriales hasta aplicaciones avanzadas como métodos iterativos y descomposición SVD. Cada capítulo se compone de varias clases diseñadas para introducir y profundizar en los temas clave de álgebra lineal.
 
-## Capítulo I: Espacios Vectoriales y Bases
+    **Bibliografía**
 
-### Clase 1: Introducción a los Espacios Vectoriales y Subespacios
-- Definición de espacio vectorial.
-- Ejemplos y propiedades de subespacios.
-- Conceptos de suma y intersección de subespacios.
 
-### Clase 2: Sistemas de Generadores, Independencia Lineal y Bases
-- Concepto de sistema generador.
-- Criterios de independencia lineal.
-- Definición y construcción de bases en espacios vectoriales.
+**Apuntes de la Materia**
 
-### Clase 3: Transformaciones Lineales y Representación Matricial
-- Definición de transformaciones lineales.
-- Representación matricial de transformaciones.
-- Ejemplos y aplicaciones de transformaciones lineales.
 
-## Capítulo II: Normas y Sistemas Lineales
 
-### Clase 4: Normas y Condicionamiento
-- Introducción a las normas vectoriales y matriciales.
-- Condicionamiento de matrices y su importancia en la solución de sistemas.
-- Ejemplos de cálculo de normas y números de condición.
+1. **Álgebra lineal (apunte de la materia)** - Gabriela Jeronimo, Juan Sabia, Susana Tesauri: Apuntes que brindan un enfoque práctico a los conceptos de álgebra lineal relevantes para el curso.
+2. **Elementos de Cálculo Numérico (apunte de la materia)** - Ricardo Durán, Silvia Lasalle, Julio Rossi: Apuntes que se centran en métodos numéricos para álgebra lineal.
 
-### Clase 5: Descomposición en Valores Singulares (SVD)
-- Definición y cálculo de la SVD.
-- Propiedades y aplicaciones de la descomposición SVD.
-- Ejemplos prácticos de SVD en el análisis de matrices.
+**Teoria**
 
-### Clase 6: Solución de Sistemas Lineales y Eliminación Gaussiana
-- Método de eliminación Gaussiana.
-- Solución de sistemas de ecuaciones lineales.
-- Análisis de la estabilidad y eficiencia del método.
 
-### Clase 7: Factorización LU y Matrices Ortogonales
-- Factorización LU: concepto y algoritmos.
-- Uso de matrices ortogonales en la factorización.
-- Aplicaciones y ejemplos de factorización LU.
 
-## Capítulo III: Autovalores y Autovectores
+3. **Numerical Linear Algebra** - Lloyd N. Trefethen, David Bau III (SIAM, 1997): Texto para comprender los métodos numéricos y su aplicación en álgebra lineal.
+4. **Matrix Computations** - Gene H. Golub, Charles F. Van Loan (Johns Hopkins, 2013): Referencia para algoritmos relacionados con operaciones matriciales, esencial para técnicas computacionales avanzadas.
+5. **Applied Numerical Linear Algebra** - James W. Demmel (SIAM, 1997): Se enfoca en métodos numéricos prácticos para resolver problemas de álgebra lineal, equilibrando teoría y aplicación.
+6. **Linear Algebra and Its Applications** - Gilbert Strang (Cengage Learning, 2006): Proporciona una base sólida en álgebra lineal con ejemplos prácticos y aplicaciones.
+7. **Numerical Analysis** - D.R. Kincaid, E.W. Cheney (Brooks/Cole, 1991): Guía completa sobre métodos numéricos, análisis de errores y eficiencia de algoritmos.
+8. **Matrix Analysis** - Roger A. Horn, Charles R. Johnson (Cambridge University Press): Profundiza en los aspectos teóricos de las matrices, utilizado para un entendimiento matemático riguroso de las operaciones matriciales.
+9. **Análisis Numérico** - R. Burden (Cengage Learning, 2017): Introduce a los estudiantes en métodos numéricos de manera estructurada, con un enfoque en la implementación práctica.
 
-### Clase 8: Propiedades de Autovalores y Autovectores
-- Definición y cálculo de autovalores y autovectores.
-- Propiedades clave de los autovalores y autovectores.
-- Ejemplos en matrices simétricas y no simétricas.
+**Otros**
 
-### Clase 9: Diagonalización y Teorema Espectral
-- Condiciones para la diagonalización de matrices.
-- Teorema espectral para matrices simétricas.
-- Aplicaciones de la diagonalización en problemas prácticos.
 
-## Capítulo IV: Métodos Iterativos para Sistemas Lineales
 
-### Clase 10: Métodos de Jacobi, Gauss-Seidel y SOR
-- Introducción a los métodos iterativos.
-- Análisis y comparación de los métodos de Jacobi, Gauss-Seidel y SOR.
-- Aplicaciones en la solución de grandes sistemas de ecuaciones.
+10. **Linear Algebra, Multivariable Calculus, and Modern Applications** - Curso 51. Departamento de Matemáticas de la Universidad de Stanford: Integra álgebra lineal con cálculo, tratando de forma amena y detallada aplicaciones modernas.
+11. **Numerical Recipes: The Art of Scientific Computing** - William H. Press et al. (Tercera Edición): Ofrece una amplia gama de algoritmos en computación científica y soluciones numéricas en Python.
+12. **Practical Linear Algebra for Data Science: From Core Concepts to Applications Using Python** - Mike X Cohen: Conecta la teoría con aplicaciones en ciencia de datos
 
-## Capítulo V: Matrices Definidas Positivas
+**Cronograma de Clases**
 
-### Clase 11: Factorización de Cholesky y Descomposición SVD
-- Condiciones y características de matrices definidas positivas.
-- Algoritmo de factorización de Cholesky.
-- Relación entre Cholesky y la descomposición SVD.
+El siguiente cronograma es solo orientativo y los docentes decidirán los temas específicos según su criterio y adaptándose al desarrollo de la cursada. 
 
-## Capítulo VI: Formas Bilineales y Productos Internos
+Semana 1
 
-### Clase 12: Formas Bilineales y Representación Matricial
-- Definición y propiedades de formas bilineales.
-- Representación matricial de formas bilineales.
-- Ejemplos en distintos espacios vectoriales.
 
-### Clase 13: Vectores Ortogonales y Problemas de Cuadrados Mínimos
-- Concepto de ortogonalidad y su importancia.
-- Solución de problemas de cuadrados mínimos.
-- Aplicaciones en regresión lineal y ajuste de datos.
 
-### Clase 14: Aproximación e Interpolación
-- Técnicas de aproximación en espacios vectoriales.
-- Métodos de interpolación polinómica y spline.
-- Ejemplos de aplicación en problemas prácticos.
+* **13 Ago**: **Práctica/Teoría** - Sistemas lineales, Gauss y clasificación.
+* **15 Ago**: **Laboratorio/Teoría** - Intro a Python/Numpy y Espacios Vectoriales.
 
-### Clase 15: Formas Cuadráticas
-- Definición y clasificación de formas cuadráticas.
-- Aplicaciones de formas cuadráticas en optimización.
-- Ejemplos de análisis y solución de problemas con formas cuadráticas.
+Semana 2
+
+
+
+* **20 Ago**: ** Práctica/Teoría** - Suma, intersección, independencia lineal, bases.
+* **22 Ago**: **Laboratorio/Teoría** - Escalonar filas, punto flotante, matrices e inversa.
+
+Semana 3
+
+
+
+* **27 Ago**: ** Práctica/Teoría** - Transformaciones lineales y matriz de la transformación lineal.
+* **29 Ago**: **Laboratorio/Teoría** - Normas de matrices y presentación de TP1.
+
+Semana 4
+
+
+
+* **3 Sep**: ** Práctica/Teoría** - Condición de matrices y sistemas lineales.
+* **5 Sep**: **Laboratorio/Teoría** - Factorización LU y consulta de TP1.
+
+Semana 5
+
+
+
+* **10 Sep**: ** Práctica/Teoría** - Factorización de Cholesky y sistemas lineales.
+* **12 Sep**: **Laboratorio/Teoría** - Proyecciones ortogonales, Gram-Schmidt y factorización QR.
+
+Semana 6
+
+
+
+* **17 Sep**: ** Práctica/Teoría** - QR Householder y sistemas lineales.
+* **19 Sep**: **Laboratorio/Teoría** - Introducción a autovalores y diagonalización. Consulta y entrega de TP1.
+
+Semana 7
+
+
+
+* **24 Sep**: ** Práctica/Teoría** - Cadenas de Markov y autovalores/autovectores.
+* **26 Sep**: **Laboratorio/Teoría** - Método de la potencia y potencia inversa.
+
+Semana 8
+
+
+
+* **1 Oct**: ** Práctica/Teoría** - Repaso y consultas para el primer parcial.
+* **3 Oct**: **Laboratorio/Teoría** - **Primer Parcial**.
+
+Semana 9
+
+
+
+* **8 Oct**: ** Práctica/Teoría** - Repaso de Gram-Schmidt y Schur, matrices hermitianas.
+* **10 Oct**: **Laboratorio/Teoría** - Diagonalización de simétricas y norma 2, reentrega de TP1.
+
+Semana 10
+
+
+
+* **15 Oct**: ** Práctica/Teoría** - SVD: Construcción, condición, matrices hermitianas.
+* **17 Oct**: **Laboratorio/Teoría** - SVD: Matrices más cercanas, pseudo-inversa, análisis en componentes principales y consulta de TP2.
+
+Semana 11
+
+
+
+* **22 Oct**: ** Práctica/Teoría** - Aplicaciones de SVD y componentes principales.
+* **24 Oct**: **Laboratorio/Teoría** - Introducción a cuadrados mínimos, ecuaciones normales, pseudo-inversa, QR, y SVD.
+
+Semana 12
+
+
+
+* **29 Oct**: ** Práctica/Teoría** - Introducción a cuadrados mínimos, interpolación y cuadrados mínimos.
+* **31 Oct**: **Laboratorio/Teoría** - Iterativos: Jacobi-Gauss Seidel, convergencia, SOR. Entrega de TP2.
+
+Semana 13
+
+
+
+* **5 Nov**: ** Práctica/Teoría** - Iterativos: Jacobi-Gauss Seidel, convergencia, SOR.
+* **7 Nov**: **Laboratorio/Teoría** - Descenso, gradiente y gradiente conjugado. Cuadrados mínimos.
+
+Semana 14
+
+
+
+* **12 Nov**: ** Práctica/Teoría** - Interpolación y cuadrados mínimos, interpolación lineal a trozos.
+* **14 Nov**: **Laboratorio/Teoría** - Linealización, modelo lineal, bondad de ajuste. Reentrega de TP2.
+
+Semana 15
+
+
+
+* **19 Nov**: ** Práctica/Teoría** - Repaso y consultas de métodos iterativos.
+* **21 Nov**: **Laboratorio/Teoría** - **Segundo Parcial**.
+
+Semana 16
+
+
+
+* **26 Nov**: ** Práctica/Teoría** - Consultas.
+* **28 Nov**: **Laboratorio/Teoría** - **Recuperatorio Primer Parcial**.
+
+Semana 17
+
+
+
+* **3 Dic**: ** Práctica/Teoría** - Consultas.
+* **5 Dic**: **Laboratorio/Teoría** - **Recuperatorio Segundo Parcial**.
+
+Semana 18
+
+
+
+* **10 Dic**: ** Práctica/Teoría** - **Primera Fecha Adicional**.
+* **12 Dic**: **Laboratorio/Teoría** - **Segunda Fecha Adicional**.
